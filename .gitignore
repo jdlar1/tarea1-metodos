@@ -1,0 +1,15 @@
+# Entorno virtual
+env/
+
+# Python Cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Editores
+.idea/
+.vscode/
+
+# local files
+
+integracion_numerica.ipynb
+interpolacion.ipynb
